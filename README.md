@@ -6,7 +6,8 @@ The name 'OSEO' or 'Orbital Space Environment Domain Ontology' is conceived as a
 
 In other words, This ontology name better reflects and generalizes the overal orbital universe of discourse (subject-matter / domain of interest) of the Orbital Debris domain and the Orbital Debris Ontology  as expressed in [1][2]. 
 
-#Status#
+## Status
 This name change from SSAO to OSEO (or OSO) is TBD, pending further development and research of the overall space ontology project and domain demarcation.
 
-
+## Rights
+© 2012-2020, Robert John Rovetto. All rights reserved. Not authorized for commercial use. Attribution required.
