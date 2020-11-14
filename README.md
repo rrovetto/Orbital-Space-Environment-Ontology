@@ -1,4 +1,4 @@
-# Orbital-Space-Environment-Ontology / Orbital Space Domain Ontology / Orbital Space Ontology 
+# The Orbital Space Environment Domain Reference Ontology / Orbital Space Domain Ontology / Orbital Space Ontology 
 
 An ontology of the orbital space domain, encompassing orbital debris and other orbital objects and phenomena. As such it includes classes from ODO (https://github.com/rrovetto/The-Orbital-Debris-Ontology/). If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 
