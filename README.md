@@ -10,4 +10,4 @@ In other words, This ontology name better reflects and generalizes the overal or
 This name change from SSAO to OSEO (or OSO) is TBD, pending further development and research of the overall space ontology project and domain demarcation.
 
 ## Copyright
-© 2012-2020, Robert John Rovetto. All rights reserved. Not authorized for commercial use. Attribution required.
+© 2012-2020, Robert John Rovetto. All rights reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/Attribution required. No liability. No warranty. No claims to completeness. Presented "as is". 
